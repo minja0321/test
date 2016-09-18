@@ -1,7 +1,7 @@
 #include "say_something.h"
 
 int main(void) {
-	// ‚±‚±‚Åsay_something.h‚ğŒÄ‚Ño‚·
+	say_something();
 	
 	return 0;
 }

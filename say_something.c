@@ -1,0 +1,1 @@
+#include <stdio.h>void say_something(void) {	// ‚±‚±‚Åsay something‚·‚é}

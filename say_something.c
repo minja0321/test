@@ -1,1 +1,1 @@
-#include <stdio.h>void say_something(void) {	// ‚±‚±‚Åsay something‚·‚é}
+#include <stdio.h>void say_something(void) {	printf("æ²–æœ¬ã¯ã‚¹ã‚±ãƒ™çŠ¬");}
